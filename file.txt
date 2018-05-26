@@ -1,2 +1,2 @@
 This is the first commit
-
+--This is the divider line to avoid conflicts--
