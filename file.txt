@@ -1,3 +1,4 @@
 This is the first commit
 --This is the divider line to avoid conflicts--
 First commit on rebase branch
+Second commit on rebase branch
