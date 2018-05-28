@@ -3,3 +3,4 @@ This is the first commit
 Tihs is the first commit on the branch rebase-interactive
 --this is another divier line to avoid conflicts--
 This is the second commit
+Reorder me! 
