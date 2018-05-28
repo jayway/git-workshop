@@ -5,3 +5,6 @@ Tihs is the first commit on the branch rebase-interactive
 This should come before the reorder commit
 This is the second commit
 Reorder me! 
+This is a huge commit
+That should proabably be seperated
+Into a bunch of smaller commits
